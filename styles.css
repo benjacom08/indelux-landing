@@ -59,3 +59,11 @@ button {
     padding: 10px 24px;
     font-weight: bold;
 }
+
+.info {
+    font-size: 42px;
+    font-weight: bold;
+    margin: auto;
+    padding: 62px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
