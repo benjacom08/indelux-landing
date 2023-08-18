@@ -8,6 +8,7 @@ body {
 .main-photo {
     width: auto;
     height: 300px;
+    border-radius: 24px;
 }
 
 .info-pho {
