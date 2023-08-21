@@ -53,6 +53,10 @@ a {
     text-align: start;
 }
 
+h1 {
+    font-size: 42px;
+}
+
 button {
     background-color: #3882f6;
     border-radius: 5px;
